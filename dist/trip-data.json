@@ -1,0 +1,1473 @@
+{
+  "days": [
+    {
+      "date": "2026-11-17",
+      "dow": "二",
+      "name": "抵達京都",
+      "route": "KIX → JR HARUKA → 京都站 → 地鐵烏丸線四條站／計程車 → 三井花園飯店京都四條；機場至京都約75–90分，另加出關、領行李及入住時間。",
+      "rain": "降雨時直接前往飯店，再在四條周邊晚餐；不要追加遠距離景點。",
+      "items": [
+        {
+          "id": "d0-0",
+          "time": "14:30",
+          "title": "BR130 桃園起飛",
+          "type": "flight",
+          "status": "confirmed",
+          "detail": "長榮；航班號及時間依機票。 出發時間為台灣13:30＝日本14:30，網站改用日本時間。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 145,
+          "address": "桃園國際機場",
+          "locked": true,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": true,
+          "date": "2026-11-17",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d0-1",
+          "time": "16:55",
+          "title": "抵達關西機場 KIX",
+          "type": "transport",
+          "status": "confirmed",
+          "detail": "預留入境及領行李約60–100分。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-17",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d0-2",
+          "time": "18:20",
+          "title": "JR HARUKA 前往京都",
+          "type": "transport",
+          "status": "confirmed",
+          "detail": "已購票；這是估計銜接時間，實際車次以票面為準。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 80,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-17",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d0-3",
+          "time": "20:00",
+          "title": "京都四條飯店入住",
+          "type": "hotel",
+          "status": "confirmed",
+          "detail": "三井花園飯店京都四條；入住時間估計。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 25,
+          "address": "三井ガーデンホテル京都四条",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-17",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d0-4",
+          "time": "20:30",
+          "title": "雞湯拉麵｜Ramen Mugyu Vol.2",
+          "type": "food",
+          "status": "confirmed",
+          "detail": "雞肉餐點可選；視抵達時間與營業狀況。｜現場候位／未訂位（如遇公休或排隊過久，依行程彈性替換）。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-17",
+          "durationEstimated": true,
+          "source": ""
+        }
+      ],
+      "done": false,
+      "notes": "",
+      "id": "day-1"
+    },
+    {
+      "date": "2026-11-18",
+      "dow": "三",
+      "name": "嵐山小火車與保津川遊船",
+      "route": "京都四條飯店 → 京都站八條口集合（地鐵烏丸線四條→京都或計程車，含步行預留30–45分）；由團車負責其餘段落。",
+      "rain": "一日團以主辦單位通知為準；雨量或水位可能影響保津川遊船，若改行程需向業者確認。",
+      "items": [
+        {
+          "id": "d1-0",
+          "time": "06:45",
+          "title": "離開京都飯店",
+          "type": "transport",
+          "status": "confirmed",
+          "detail": "集合提早出發，建議交通異常緩衝。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-18",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d1-1",
+          "time": "07:45",
+          "title": "京都站八條口團體集合",
+          "type": "booking",
+          "status": "confirmed",
+          "detail": "已訂嵐山一日團；含小火車、午餐、保津川遊船。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": true,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": true,
+          "date": "2026-11-18",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d1-2",
+          "time": "09:02",
+          "title": "嵯峨野小火車",
+          "type": "activity",
+          "status": "confirmed",
+          "detail": "隨團，時間依憑證。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-18",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d1-3",
+          "time": "11:30",
+          "title": "團體日式午餐",
+          "type": "food",
+          "status": "confirmed",
+          "detail": "已包含；餐點內容依業者。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-18",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d1-4",
+          "time": "13:00",
+          "title": "嵐山散策與保津川遊船",
+          "type": "activity",
+          "status": "confirmed",
+          "detail": "時間依當天團體安排，保留空檔。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-18",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d1-5",
+          "time": "18:30",
+          "title": "炸豬排一番",
+          "type": "food",
+          "status": "confirmed",
+          "detail": "唐門附近，不用定位，最頂的米其林炸豬排｜現場候位／未訂位（如遇公休或排隊過久，依行程彈性替換）。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-18",
+          "durationEstimated": true,
+          "source": ""
+        }
+      ],
+      "done": false,
+      "notes": "",
+      "id": "day-2"
+    },
+    {
+      "date": "2026-11-19",
+      "dow": "四",
+      "name": "京都東山 → 大阪搬家",
+      "route": "飯店寄存行李 → 伏見稻荷（四條／烏丸→京都站→JR奈良線稻荷）→ 東山清水寺／祇園 → 取行李 → 京都站→大阪。最新討論採一般JR京都→大阪→御堂筋線大國町；本次訊息提出新幹線京都→新大阪，列為待再次確定的替代方案。",
+      "rain": "雨天刪除伏見稻荷長距離登山，改簡短參拜；東山石坂濕滑，清水寺和祇園擇一。",
+      "items": [
+        {
+          "id": "d2-0",
+          "time": "08:00",
+          "title": "伏見稻荷大社",
+          "type": "sight",
+          "status": "optional",
+          "detail": "縮短參拜範圍避免影響東山。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-19",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d2-1",
+          "time": "09:30",
+          "title": "Chiikawa 伏見店",
+          "type": "shop",
+          "status": "optional",
+          "detail": "營業與商品庫存待查。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-19",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d2-2",
+          "time": "11:15",
+          "title": "清水寺＋二三年坂",
+          "type": "sight",
+          "status": "confirmed",
+          "detail": "上午至午後東山散步。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-19",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d2-3",
+          "time": "13:30",
+          "title": "祇園 おかる咖哩烏龍麵",
+          "type": "food",
+          "status": "confirmed",
+          "detail": "不點牛肉版；選豆皮、天婦羅等非牛配料，湯底成分如需完全避牛須再詢店。｜現場候位／未訂位（如遇公休或排隊過久，依行程彈性替換）。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-19",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d2-4",
+          "time": "15:30",
+          "title": "八坂神社／祇園",
+          "type": "sight",
+          "status": "optional",
+          "detail": "可依體力縮短。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-19",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d2-5",
+          "time": "17:30",
+          "title": "取行李＋京都→大阪 JR",
+          "type": "transport",
+          "status": "pending",
+          "detail": "一般JR為前次明確決定的路線；是否改搭新幹線需核對，勿視為已買票。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-19",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d2-6",
+          "time": "19:15",
+          "title": "大阪 Airbnb 入住",
+          "type": "hotel",
+          "status": "confirmed",
+          "detail": "11/19 16:00 後入住；實際到達時間僅估計。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "大阪市浪速區（住宿詳細地址已隱藏）",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-19",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d2-7",
+          "time": "20:00",
+          "title": "Ebisu shokudo",
+          "type": "food",
+          "status": "confirmed",
+          "detail": "住宿附近的餐廳，看起來很好吃｜現場候位／未訂位（如遇公休或排隊過久，依行程彈性替換）。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-19",
+          "durationEstimated": true,
+          "source": ""
+        }
+      ],
+      "done": false,
+      "notes": "",
+      "id": "day-3"
+    },
+    {
+      "date": "2026-11-20",
+      "dow": "五",
+      "name": "京都塔・和菓子・三十三間堂・夜楓",
+      "route": "大阪住宿→京都站→京都塔→但馬屋→七條甘春堂本店→三十三間堂→京阪七條／三條轉地鐵蹴上→順正→永觀堂→大阪。",
+      "rain": "保留午餐、和菓子與順正；雨大取消夜楓，三十三間堂可優先保留。",
+      "items": [
+        {
+          "id": "d3-0",
+          "time": "08:15",
+          "title": "大阪住宿 → 京都站",
+          "type": "transport",
+          "duration": 90,
+          "detail": "JR 大阪→京都，含住宿到車站轉乘；估算",
+          "locked": false,
+          "address": "大阪大國町",
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "status": "optional",
+          "notes": "",
+          "fav": false,
+          "done": false,
+          "timeVerified": false,
+          "date": "2026-11-20",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d3-1",
+          "time": "10:00",
+          "title": "京都塔｜吉伊卡哇紀念幣",
+          "type": "shop",
+          "duration": 35,
+          "detail": "11樓；庫存及機台費用以現場為準",
+          "locked": false,
+          "address": "京都タワー",
+          "cost": {
+            "amount": 700,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "status": "optional",
+          "notes": "",
+          "fav": false,
+          "done": false,
+          "timeVerified": false,
+          "date": "2026-11-20",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d3-2",
+          "time": "11:00",
+          "title": "但馬屋 京都Yodobashi｜壽喜燒",
+          "type": "food",
+          "duration": 75,
+          "detail": "2人已確認訂位；有豬、雞選項，套餐待確認",
+          "locked": true,
+          "address": "京都ヨドバシ 6F",
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "status": "confirmed",
+          "notes": "",
+          "fav": false,
+          "done": false,
+          "timeVerified": true,
+          "date": "2026-11-20",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d3-3",
+          "time": "13:00",
+          "title": "七條甘春堂本店｜和菓子手作",
+          "type": "activity",
+          "duration": 90,
+          "detail": "2人 ¥6,600；仮予約，待正式確認",
+          "locked": true,
+          "address": "京都市東山区西之門町551",
+          "cost": {
+            "amount": 6600,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "status": "pending",
+          "notes": "",
+          "fav": false,
+          "done": false,
+          "timeVerified": true,
+          "date": "2026-11-20",
+          "durationEstimated": true,
+          "source": "https://7jyo-kansyundo.co.jp/pages/taiken"
+        },
+        {
+          "id": "d3-4",
+          "time": "14:40",
+          "title": "三十三間堂",
+          "type": "sight",
+          "duration": 50,
+          "detail": "15:30 最後受付；15:30離開前往順正",
+          "locked": false,
+          "address": "三十三間堂",
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "status": "optional",
+          "notes": "",
+          "fav": false,
+          "done": false,
+          "timeVerified": false,
+          "date": "2026-11-20",
+          "durationEstimated": true,
+          "source": "https://www.sanjusangendo.jp/news/1717/"
+        },
+        {
+          "id": "d3-5",
+          "time": "17:00",
+          "title": "南禪寺 順正｜湯豆腐",
+          "type": "food",
+          "duration": 90,
+          "detail": "已訂位，提前15–30分鐘抵達",
+          "locked": true,
+          "address": "南禅寺 順正",
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "status": "confirmed",
+          "notes": "",
+          "fav": false,
+          "done": false,
+          "timeVerified": true,
+          "date": "2026-11-20",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d3-6",
+          "time": "19:15",
+          "title": "永觀堂夜楓",
+          "type": "sight",
+          "duration": 60,
+          "detail": "現場購票；20:30受付結束、21:00閉門；視體力",
+          "locked": false,
+          "address": "永観堂",
+          "cost": {
+            "amount": 1000,
+            "currency": "JPY",
+            "basis": "person"
+          },
+          "status": "optional",
+          "notes": "",
+          "fav": false,
+          "done": false,
+          "timeVerified": false,
+          "date": "2026-11-20",
+          "durationEstimated": true,
+          "source": "https://www.eikando.or.jp/osirase.html"
+        },
+        {
+          "id": "d3-7",
+          "time": "20:30",
+          "title": "返回大阪住宿",
+          "type": "transport",
+          "duration": 100,
+          "detail": "蹴上→烏丸御池→京都→大阪；估算",
+          "locked": false,
+          "address": "大阪市浪速區（住宿詳細地址已隱藏）",
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "status": "optional",
+          "notes": "",
+          "fav": false,
+          "done": false,
+          "timeVerified": false,
+          "date": "2026-11-20",
+          "durationEstimated": true,
+          "source": ""
+        }
+      ],
+      "done": false,
+      "notes": "17:00 湯豆腐：南禪寺 順正，已訂位。",
+      "id": "day-4"
+    },
+    {
+      "date": "2026-11-21",
+      "dow": "六",
+      "name": "木津市場・大阪城・海遊館",
+      "route": "木津市場→通天閣→惠美須町→堺筋本町轉中央線→大阪港；海遊館14:00已購。",
+      "rain": "下雨時刪除大阪城戶外公園，木津市場早餐後直接到天保山室內商場，再依14:00門票入海遊館。",
+      "items": [
+        {
+          "id": "d4-0",
+          "time": "07:15",
+          "title": "木津市場海鮮早餐",
+          "type": "food",
+          "status": "optional",
+          "detail": "市場營業日／店家當天時間待再查，避免排太久。｜現場候位／未訂位（如遇公休或排隊過久，依行程彈性替換）。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-21",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d4-tsuten",
+          "time": "09:40",
+          "duration": 50,
+          "title": "通天閣 B1｜吉伊卡哇紀念幣",
+          "address": "通天閣",
+          "type": "shop",
+          "status": "optional",
+          "locked": false,
+          "cost": {
+            "amount": 700,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "detail": "免費地下賣店；庫存與價格待當日確認",
+          "timeVerified": false,
+          "date": "2026-11-21",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d4-2",
+          "time": "12:15",
+          "title": "麺めん亭 てらにし｜日式定食",
+          "type": "food",
+          "status": "pending",
+          "detail": "大阪港站附近，豬排丼／雞肉定食等；評分需臨行複核。｜現場候位／未訂位（如遇公休或排隊過久，依行程彈性替換）。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-21",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d4-3",
+          "time": "14:00",
+          "title": "海遊館",
+          "type": "booking",
+          "status": "confirmed",
+          "detail": "門票已購，入場14:00；官網允許改時段最多2次。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 150,
+          "address": "",
+          "locked": true,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": true,
+          "date": "2026-11-21",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d4-4",
+          "time": "16:30",
+          "title": "天保山摩天輪",
+          "type": "sight",
+          "status": "optional",
+          "detail": "天候與體力允許才搭。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-21",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d4-5",
+          "time": "18:30",
+          "title": "福太郎大阪燒\r\n福太郎 本店",
+          "type": "food",
+          "status": "confirmed",
+          "detail": "豬肉、海鮮口味；不可預約，先到先吃。｜現場候位／未訂位（如遇公休或排隊過久，依行程彈性替換）。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-21",
+          "durationEstimated": true,
+          "source": ""
+        }
+      ],
+      "done": false,
+      "notes": "天ぷら えびちゃん 定食 可作為午餐備案",
+      "id": "day-5"
+    },
+    {
+      "date": "2026-11-22",
+      "dow": "日",
+      "name": "姬路城・神戶港・勝尾寺",
+      "route": "大阪 Airbnb→大國町／日本橋→道頓堀東側集合點（清晨請預留30–45分，必要時計程車）；團車前往姬路城→神戶MOSAIC→勝尾寺，返回大阪後→新世界。",
+      "rain": "以團體安排為主；若回程延誤或下雨，晚餐可改大國町附近餐廳而非特地走到新世界。",
+      "items": [
+        {
+          "id": "d5-0",
+          "time": "06:15",
+          "title": "離開 Airbnb 前往集合點",
+          "type": "transport",
+          "status": "confirmed",
+          "detail": "前往蟹道樂道頓堀東店；清晨請確認電車是否適合，不然搭計程車。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "大阪市浪速區（住宿詳細地址已隱藏）",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-22",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d5-1",
+          "time": "07:00",
+          "title": "姬路城・神戶・勝尾寺一日團集合",
+          "type": "booking",
+          "status": "confirmed",
+          "detail": "已訂；景點門票及餐食皆不含，團方不代購。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": true,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": true,
+          "date": "2026-11-22",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d5-2",
+          "time": "09:00",
+          "title": "姬路城參觀",
+          "type": "sight",
+          "status": "confirmed",
+          "detail": "門票自行購買；順序與時間依團體。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-22",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d5-3",
+          "time": "12:00",
+          "title": "Bikkuri Donkey 神戶 Harborland 店",
+          "type": "food",
+          "status": "pending",
+          "detail": "漢堡排含牛豬混合肉；男朋友應選純雞排等無牛肉選項，實際當日菜單需查證。｜現場候位／未訂位（如遇公休或排隊過久，依行程彈性替換）。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-22",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d5-4",
+          "time": "14:00",
+          "title": "神戶港 MOSAIC／勝尾寺",
+          "type": "sight",
+          "status": "confirmed",
+          "detail": "具體順序與時間以導遊為準。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-22",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d5-5",
+          "time": "18:30",
+          "title": "串カツだるま 新世界總店",
+          "type": "food",
+          "status": "pending",
+          "detail": "只收現金、小店不可預約；若隊伍長則改鄰近分店。豬、雞、海鮮串炸。｜現場候位／未訂位（如遇公休或排隊過久，依行程彈性替換）。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-22",
+          "durationEstimated": true,
+          "source": ""
+        }
+      ],
+      "done": false,
+      "notes": "",
+      "id": "day-6"
+    },
+    {
+      "date": "2026-11-23",
+      "dow": "一",
+      "name": "大鳥大社・難波購物・卡丁車",
+      "route": "大國町→御堂筋線天王寺→JR阪和線鳳站→步行大鳥大社（約40–60分）；回程鳳→天王寺→難波；晚餐後步行到高津卡丁車集合。",
+      "rain": "取消戶外延伸景點，保留大鳥大社短參拜；購物改百貨及室內商場，卡丁車若雨天營運須詢業者。",
+      "items": [
+        {
+          "id": "d6-0",
+          "time": "07:30",
+          "title": "Airbnb 附近簡單早餐",
+          "type": "food",
+          "status": "optional",
+          "detail": "便利商店飯糰／麵包；今日是日本國定假日。｜現場候位／未訂位（如遇公休或排隊過久，依行程彈性替換）。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "大阪市浪速區（住宿詳細地址已隱藏）",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-23",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d6-1",
+          "time": "09:00",
+          "title": "大鳥大社",
+          "type": "sight",
+          "status": "confirmed",
+          "detail": "JR阪和線「鳳」站，下車步行。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-23",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d6-2",
+          "time": "12:00",
+          "title": "魚心 南難波店｜壽司午餐（已訂位）",
+          "type": "food",
+          "status": "confirmed",
+          "detail": "12:00 已訂位；可選魚及海鮮壽司，避免牛肉。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 75,
+          "address": "",
+          "locked": true,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": true,
+          "date": "2026-11-23",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d6-3",
+          "time": "13:30",
+          "title": "日本橋電電城／難波／心齋橋",
+          "type": "shop",
+          "status": "optional",
+          "detail": "唐吉訶德、藥妝、伴手禮採買；可依體力縮短。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-23",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d6-4",
+          "time": "16:30",
+          "title": "麺と無限の可能性｜鶏白湯",
+          "type": "food",
+          "status": "pending",
+          "detail": "已指定晚餐；實際營業時段與候位需當日確認，雞湯拉麵，若介意牛成分應詢問湯頭。｜現場候位／未訂位（如遇公休或排隊過久，依行程彈性替換）。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-23",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d6-5",
+          "time": "18:15",
+          "title": "Future Kart Osaka 報到區域",
+          "type": "booking",
+          "status": "confirmed",
+          "detail": "已預訂19:00–20:30；高津2丁目4-21；兩人駕照/日譯本/護照資格已確認。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": true,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": true,
+          "date": "2026-11-23",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d6-6",
+          "time": "19:00",
+          "title": "夜間卡丁車",
+          "type": "booking",
+          "status": "confirmed",
+          "detail": "19:00–20:30。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-23",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d6-7",
+          "time": "21:00",
+          "title": "雞肉串燒居酒屋｜宵夜備選",
+          "type": "food",
+          "status": "optional",
+          "detail": "炭火焼とり えんや等；隔日早起，建議簡短或取消。｜現場候位／未訂位（如遇公休或排隊過久，依行程彈性替換）。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-23",
+          "durationEstimated": true,
+          "source": ""
+        }
+      ],
+      "done": false,
+      "notes": "",
+      "id": "day-7"
+    },
+    {
+      "date": "2026-11-24",
+      "dow": "二",
+      "name": "清晨前往機場・返台",
+      "route": "Airbnb→南海新今宮站（建議05:20離開住處，步行時間視實際入口）→06:02 Rapi:t α1號→06:35關西機場；T1 出境手續與免稅購物；BR177 10:55起飛。",
+      "rain": "清晨雨天建議叫車至南海新今宮站（非直接叫車到機場）；不要延後已購指定席列車。",
+      "items": [
+        {
+          "id": "d7-0",
+          "time": "05:20",
+          "title": "Airbnb 退房出發",
+          "type": "hotel",
+          "status": "confirmed",
+          "detail": "最晚退房10:00但須提前；前晚完成行李打包。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "大阪市浪速區（住宿詳細地址已隱藏）",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-24",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d7-1",
+          "time": "06:02",
+          "title": "Rapi:t α1 新今宮站出發",
+          "type": "transport",
+          "status": "confirmed",
+          "detail": "車票已購；指定席依票券及月台指示。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 33,
+          "address": "",
+          "locked": true,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": true,
+          "date": "2026-11-24",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d7-2",
+          "time": "06:35",
+          "title": "抵達關西機場",
+          "type": "transport",
+          "status": "confirmed",
+          "detail": "優先確認海關退稅與託運的先後程序。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-24",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d7-3",
+          "time": "08:00",
+          "title": "報到／安檢／KIX免稅購物",
+          "type": "shop",
+          "status": "optional",
+          "detail": "報到櫃檯確切開放時間依長榮當日公告；免稅購物在出境後。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-24",
+          "durationEstimated": true,
+          "source": ""
+        },
+        {
+          "id": "d7-4",
+          "time": "10:55",
+          "title": "長榮 BR177 返回台灣",
+          "type": "flight",
+          "status": "confirmed",
+          "detail": "KIX→TPE；班機依正式機票。",
+          "fav": false,
+          "done": false,
+          "notes": "",
+          "duration": 60,
+          "address": "",
+          "locked": false,
+          "cost": {
+            "amount": null,
+            "currency": "JPY",
+            "basis": "group"
+          },
+          "timeVerified": false,
+          "date": "2026-11-24",
+          "durationEstimated": true,
+          "source": ""
+        }
+      ],
+      "done": false,
+      "notes": "",
+      "id": "day-8"
+    }
+  ],
+  "logs": [
+    {
+      "at": "2026-11-09",
+      "text": "行程備註已整理；詳細訂位資料請以個人憑證為準。"
+    },
+    {
+      "at": "2026-11-09",
+      "text": "行程備註已整理；詳細訂位資料請以個人憑證為準。"
+    }
+  ],
+  "updated": "2026-11-13T14:50:00+00:00",
+  "trip": {
+    "name": "京阪神・兩個人的秋日散步",
+    "destination": "京都・大阪・神戶・姬路",
+    "start": "2026-11-17",
+    "end": "2026-11-24",
+    "timezone": "Asia/Tokyo",
+    "people": 2,
+    "currency": "JPY",
+    "settlement": "TWD",
+    "rate": null
+  },
+  "packing": [
+    {
+      "id": "p0-0",
+      "category": "證件票券",
+      "name": "護照",
+      "quantity": 1,
+      "notes": "",
+      "done": false
+    },
+    {
+      "id": "p0-1",
+      "category": "證件票券",
+      "name": "駕照與日譯本",
+      "quantity": 1,
+      "notes": "",
+      "done": false
+    },
+    {
+      "id": "p0-2",
+      "category": "證件票券",
+      "name": "活動預約資料",
+      "quantity": 1,
+      "notes": "",
+      "done": false
+    },
+    {
+      "id": "p1-0",
+      "category": "電子用品",
+      "name": "手機",
+      "quantity": 1,
+      "notes": "",
+      "done": false
+    },
+    {
+      "id": "p1-1",
+      "category": "電子用品",
+      "name": "充電器",
+      "quantity": 1,
+      "notes": "",
+      "done": false
+    },
+    {
+      "id": "p1-2",
+      "category": "電子用品",
+      "name": "行動電源",
+      "quantity": 1,
+      "notes": "",
+      "done": false
+    },
+    {
+      "id": "p2-0",
+      "category": "衣物",
+      "name": "外套",
+      "quantity": 1,
+      "notes": "",
+      "done": false
+    },
+    {
+      "id": "p2-1",
+      "category": "衣物",
+      "name": "換洗衣物",
+      "quantity": 1,
+      "notes": "",
+      "done": false
+    },
+    {
+      "id": "p3-0",
+      "category": "盥洗保養",
+      "name": "牙刷",
+      "quantity": 1,
+      "notes": "",
+      "done": false
+    },
+    {
+      "id": "p3-1",
+      "category": "盥洗保養",
+      "name": "保養品",
+      "quantity": 1,
+      "notes": "",
+      "done": false
+    },
+    {
+      "id": "p4-0",
+      "category": "健康藥品",
+      "name": "常備藥",
+      "quantity": 1,
+      "notes": "",
+      "done": false
+    },
+    {
+      "id": "p5-0",
+      "category": "隨身用品",
+      "name": "雨傘",
+      "quantity": 1,
+      "notes": "",
+      "done": false
+    },
+    {
+      "id": "p5-1",
+      "category": "隨身用品",
+      "name": "零錢包",
+      "quantity": 1,
+      "notes": "",
+      "done": false
+    },
+    {
+      "id": "p5-2",
+      "category": "隨身用品",
+      "name": "環保袋",
+      "quantity": 1,
+      "notes": "",
+      "done": false
+    }
+  ],
+  "routes": {
+    "d3-0|d3-1": {
+      "mode": "步行",
+      "duration": 12,
+      "cost": null,
+      "segments": "京都站→京都塔；規劃估算，依當日導航"
+    },
+    "d3-1|d3-2": {
+      "mode": "步行",
+      "duration": 10,
+      "cost": null,
+      "segments": "京都塔→Yodobashi 6F；規劃估算，依當日導航"
+    },
+    "d3-2|d3-3": {
+      "mode": "步行",
+      "duration": 30,
+      "cost": null,
+      "segments": "Yodobashi→七條甘春堂本店；規劃估算，依當日導航"
+    },
+    "d3-3|d3-4": {
+      "mode": "步行",
+      "duration": 10,
+      "cost": null,
+      "segments": "七條甘春堂→三十三間堂；規劃估算，依當日導航"
+    },
+    "d3-4|d3-5": {
+      "mode": "京阪＋地鐵",
+      "duration": 60,
+      "cost": null,
+      "segments": "七條→三條／三條京阪→蹴上→順正；規劃估算，依當日導航"
+    },
+    "d3-5|d3-6": {
+      "mode": "步行",
+      "duration": 20,
+      "cost": null,
+      "segments": "順正→永觀堂；規劃估算，依當日導航"
+    },
+    "d3-6|d3-7": {
+      "mode": "步行",
+      "duration": 15,
+      "cost": null,
+      "segments": "永觀堂步行至蹴上站；返回大阪已另列交通行程，不重複計時。"
+    }
+  }
+}
